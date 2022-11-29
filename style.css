@@ -1,0 +1,17 @@
+img {
+  width: 35%;
+  height: 35%;
+}
+header {
+  background-color: #daa520;
+}
+main {
+  background-color: #ffdead;
+}
+footer {
+  background-color: #d3d3d3;
+}
+nav img {
+  width: 17%;
+  height: 17%;
+}
